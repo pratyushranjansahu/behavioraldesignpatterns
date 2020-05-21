@@ -1,0 +1,2 @@
+Strategy design pattern is used , when we have multiple algorithm 
+for a specific task & client decides the actual implementation to be used at run time. 
