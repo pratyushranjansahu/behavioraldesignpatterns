@@ -2,7 +2,7 @@ package behavioralpatterns.strategy.model;
 
 public class Product {
 	private String upcCode;
-    private int price;
+    	private int price;
 
 
     public Product(String upcCode, int price) {
